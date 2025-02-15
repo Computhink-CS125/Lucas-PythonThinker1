@@ -20,12 +20,13 @@
 # for i in range(10):
 #     print ("Hello!")
 
-name = input("What is your name? ")
+# name = input("What is your name? ")
 
-for char in name:
-    print("give me a " + char + "!")
-print("what do we have?")
-print(name)
+# for char in name:
+#     print("give me a " + char + "!")
+# print("what do we have?")
+# print(name)
 
 # for i in range(10):
 #     print("I like eating chicken rice!")
+
