@@ -5,6 +5,3 @@ print("hello")
 
 
 
-
-
-sen
