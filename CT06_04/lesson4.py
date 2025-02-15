@@ -28,5 +28,5 @@
 #     print("what do we have?")
 #     print(name)
 
-for i in range(100):
+for i in range(10):
     print("I like eating chicken rice!")
