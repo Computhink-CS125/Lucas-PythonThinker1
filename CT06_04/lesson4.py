@@ -12,4 +12,4 @@
 
 
 
-birthdayPerson
+BdayPersonName = input()
