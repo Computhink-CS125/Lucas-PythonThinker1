@@ -20,7 +20,7 @@
 # for i in range(10):
 #     print ("Hello!")
 
-name = input("What is your name?")
+name = input("What is your name? ")
 
 for char in name:
 
