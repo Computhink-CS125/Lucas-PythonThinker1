@@ -30,6 +30,9 @@
 # for i in range(10):
 #     print("I like eating chicken rice!")
 
-for i in range (100):
-    print("I like cake! ")
-    print("givingtons me more diabetes")
+# for i in range (100):
+#     print("I like cake! ")
+#     print("givingtons me more diabetes")
+
+for i in range:
+    (1,6,1)
