@@ -1,2 +1,2 @@
 
-age = input("what is your age?")
+age = iput("what is your age?")
