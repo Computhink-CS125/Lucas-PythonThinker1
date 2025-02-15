@@ -20,4 +20,5 @@
 # for i in range(10):
 #     print ("Hello!")
 
-name = input()
+name = input("What is your name?")
+
