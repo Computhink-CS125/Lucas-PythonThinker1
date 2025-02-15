@@ -7,4 +7,4 @@ print("hello")
 
 
 
-get
+generate 
