@@ -30,3 +30,5 @@
 # for i in range(10):
 #     print("I like eating chicken rice!")
 
+for i in range (100):
+    print()
