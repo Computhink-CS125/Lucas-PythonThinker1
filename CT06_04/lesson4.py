@@ -31,5 +31,5 @@
 #     print("I like eating chicken rice!")
 
 for i in range (100):
-    print("I like cake give me more")
-    print("givingtons me more")
+    print("I like cake! ")
+    print("givingtons me more diabetes")
