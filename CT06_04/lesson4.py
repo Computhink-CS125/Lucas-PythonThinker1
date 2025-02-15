@@ -35,4 +35,4 @@
 #     print("givingtons me more diabetes")
 
 for i in range(1,6):
-    print
+    print(i)
