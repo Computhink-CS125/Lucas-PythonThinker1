@@ -36,3 +36,7 @@
 
 for i in range(1,6):
     print(i)
+
+
+for e in range(51, 101):
+    print(e)
