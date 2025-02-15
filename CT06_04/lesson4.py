@@ -1,3 +1,2 @@
-print("What is your current age?")
 
-age = input()
+age = input("what is your age?")
