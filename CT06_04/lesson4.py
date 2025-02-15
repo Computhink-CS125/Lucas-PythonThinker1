@@ -22,3 +22,6 @@
 
 name = input("What is your name?")
 
+for char in name:
+
+    
