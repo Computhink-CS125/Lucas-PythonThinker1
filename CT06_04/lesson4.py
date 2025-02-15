@@ -12,6 +12,8 @@
 
 
 
-BdayPersonName = input("hello! It seems like it's someones birthday! What is your name?")
+BdayPersonName = input("hello! It seems like it's someones birthday! What is your name? ")
 
-AgeOfBdayPersonName = input
+AgeOfBdayPersonName = input("What is your current age? ")
+                          
+print("Happy " + AgeOfBdayPersonName + "th birthday!")
