@@ -12,6 +12,8 @@
 
 
 
-BdayPersonName = input("hello! It seems like it's someones birthday! What is your name? ")
-AgeOfBdayPersonName = input("What is your current age? ")   
-print("Happy " + AgeOfBdayPersonName + "th birthday!")
+# BdayPersonName = input("hello! It seems like it's someones birthday! What is your name? ")
+# AgeOfBdayPersonName = input("What is your current age? ")   
+# print("Here's a personal message from the person who sent you this digital birthday invitation card"
+
+
