@@ -17,3 +17,5 @@
 # print("Here's a personal message from the person who sent you this digital birthday invitation card"
 
 
+for i in range(10):
+    print ("Hello!")
