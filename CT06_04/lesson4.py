@@ -12,5 +12,4 @@
 
 
 
-BdayPersonName = input("hello! What is your birthday")
-
+BdayPersonName = input("hello! What is your name?")
