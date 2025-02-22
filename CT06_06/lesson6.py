@@ -38,6 +38,7 @@
 
 
 # **Task 2a**:
+age = 10
 print(age)
 
 # **Task 2b**:
