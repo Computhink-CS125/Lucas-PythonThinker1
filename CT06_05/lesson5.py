@@ -18,8 +18,8 @@
 #     print(d)
 
 
-startingtons = input("What integer would you like to start with? ")
-endingtons = input("What integer would you like to end with? ")
+startingtons = intinput("What integer would you like to start with? "))
+endingtons = int(input("What integer would you like to end with? "))
 
 if endingtons > startingtons:
     for i in range(startingtons, endingtons, 1):
