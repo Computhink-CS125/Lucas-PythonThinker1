@@ -18,4 +18,4 @@
 #     print(d)
 
 
-startingtons = input()
+startingtons = input("What integer would you like to start with?")
