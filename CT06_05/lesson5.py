@@ -7,4 +7,5 @@
 
 
 
-for i in loop(0): d
+for i in loop(1):
+    print("efoiwjwfojiewfjoi")
