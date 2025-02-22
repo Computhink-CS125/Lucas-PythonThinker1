@@ -1,1 +1,1 @@
-# we print the 
+# we print the for loop to printingtons the numba from 2 too 24!!!
