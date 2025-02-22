@@ -3,4 +3,3 @@ for i in range(student):
 
     score = score + int(input("What is the student's marks?"))
 
-int(print(scor))
