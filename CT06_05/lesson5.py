@@ -23,4 +23,7 @@ endingtons = input("What integer would you like to end with?")
 
 if endingtons > startingtons:
     for i in range(startingtons, endingtons, -1):
-        print
+        print(i)
+else:
+    for i in range(startingtons, endingtons, 1):
+        print(i)
