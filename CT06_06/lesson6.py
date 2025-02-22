@@ -1,1 +1,1 @@
-student = int()
+student = int(input())
