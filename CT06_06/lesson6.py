@@ -1,1 +1,1 @@
-student = int(input())
+student = int(input("How many students "))
