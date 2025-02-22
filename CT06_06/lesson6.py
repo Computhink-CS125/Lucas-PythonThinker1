@@ -3,4 +3,4 @@ for i in range(student):
 
     score = score + int(input("What is the student's marks?"))
 
-print(f"")
+print(f"iofewifweifewjiewifj" {eererre {errerrr}})
