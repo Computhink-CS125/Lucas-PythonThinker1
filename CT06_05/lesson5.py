@@ -19,3 +19,4 @@
 
 
 startingtons = input("What integer would you like to start with?")
+endingtons = input()
