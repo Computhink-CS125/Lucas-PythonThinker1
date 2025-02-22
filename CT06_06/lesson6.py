@@ -49,4 +49,4 @@ x = 5
 print(x)
 
 # **Task 2d**:
-pint("Hello, World!")
+print("Hello, World!")
