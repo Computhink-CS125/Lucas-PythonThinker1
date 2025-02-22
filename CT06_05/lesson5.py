@@ -7,5 +7,5 @@
 
 
 
-for i in loop(1):
-    print("efoiwjwfojiewfjoi")
+for i in range(2, 25, 2):
+    print i ("efoiwjwfojiewfjoi")
