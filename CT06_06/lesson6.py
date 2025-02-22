@@ -68,10 +68,10 @@ year = 2023
 print("The year is " + year)
 
 # **Task 3e**:
-x = "10"
+x = 10
 y = x / 2
 
 # **Task 3f**:
-end = "5"
+end = ""
 for i in range(end):
     print(i)
