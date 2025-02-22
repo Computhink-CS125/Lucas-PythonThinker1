@@ -14,3 +14,5 @@
 #     print(e)
 
 
+for d in range(5, 0, -1):
+    print(d)
