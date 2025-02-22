@@ -5,4 +5,4 @@ for i in range(student):
 
     score = score + int(input("What is the student's marks?"))
 
-print(score)
+print(score / student)
