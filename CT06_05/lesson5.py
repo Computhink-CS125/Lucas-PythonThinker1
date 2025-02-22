@@ -10,5 +10,5 @@
 # for i in range(2, 25, 2):
 #     print(i)
 
-for e in range(8, 96, 8):
+for e in range(8, 97, 8):
     print(e)
