@@ -57,4 +57,5 @@
 
 
 
-name = input("Whatingtons is your name sir?")
+name = input("What is your name?")
+
