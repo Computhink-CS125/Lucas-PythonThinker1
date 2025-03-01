@@ -51,5 +51,5 @@ word = input("What word would you like to repeat?")
 
 Repetitivenumber = input("How many times would you like it to repeat?")
 
-for i in range(word):
+for i in range():
     print(i)
