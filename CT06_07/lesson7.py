@@ -61,4 +61,4 @@ name = input("What is your name?")
 TheRepeatedNumber = int(input("How many times would you like to repeat it?"))
 
 for i in range(TheRepeatedNumber,):
-    print("nice to meet you," + name) + "!"
+    print("nice to meet you, " + name) + "!"
