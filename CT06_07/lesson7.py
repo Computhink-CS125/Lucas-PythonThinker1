@@ -67,4 +67,4 @@
 
 
 
-numbuer1
+numbuer1 = input("What is number #1?")
