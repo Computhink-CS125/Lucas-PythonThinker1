@@ -77,4 +77,4 @@
 
 
 
-TimeTableNumbure = 
+TimeTableNumbure = input("")
