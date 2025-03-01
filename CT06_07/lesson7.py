@@ -58,7 +58,7 @@
 
 
 name = input("What is your name?")
-TheRepeatedNumber = input("How many times would you like to repeat it?")
+TheRepeatedNumber = int(input("How many times would you like to repeat it?"))
 
 for i in range(TheRepeatedNumber,):
     print(name)
