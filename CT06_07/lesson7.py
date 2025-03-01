@@ -16,5 +16,5 @@ average_score = total / 3
 
 student_name = "Alex"
 
-int(print("Average score for " + student_name + " is: " + average_score))
+print("Average score for " + student_name + " is: " + int(average_score))
 
