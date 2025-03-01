@@ -70,10 +70,6 @@
 sum = 0
 
 for n in range(1,6):
-    sum = sum + numbuer1 + numbuer2 + numbuer3 + numbuer4 + numbuer5
+    sum = sum + int(input("What is number" + str(n)))
 
-numbuer1 = input("What is number" + str(n))
-numbuer2 = input("What is number" + str(n))
-numbuer3 = input("What is number")
-numbuer4 = input("erererererer")
-numbuer5 = input()
+print(sum)
