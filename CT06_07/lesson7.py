@@ -32,5 +32,8 @@
 
 
 # Task 2
-for i in range(2, 21, 2):
-    print()
+# for i in range(2, 21, 2):
+#     print(i)
+
+
+T
