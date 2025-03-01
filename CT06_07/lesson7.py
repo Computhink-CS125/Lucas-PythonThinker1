@@ -47,4 +47,4 @@
 
 
 
-word = input()
+word = input("")
