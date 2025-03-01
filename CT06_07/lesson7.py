@@ -77,5 +77,7 @@
 
 
 
-TimeTableNumbure = input("What number would you like to see the timetable off? ")
+TimeTableNumbure = input("What number would you like to see the timetable of? ")
 
+for i in range(TimeTableNumbure,1 , 12):
+    print
