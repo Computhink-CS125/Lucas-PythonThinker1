@@ -67,6 +67,11 @@
 
 
 
-numbuer1 = input("What is number #1?")
-numbuer2 = input("What is number #2")
+sum = 0
+
+for n in range(1,6):
+    
+
+numbuer1 = input("What is number" + str(n))
+numbuer2 = input("What is number" + str(n))
 numbuer3 = input()
