@@ -67,9 +67,13 @@
 
 
 
-sum = 0
+# sum = 0
 
-for n in range(1,6):
-    sum = sum + int(input("What is number " + str(n)))
+# for n in range(1,6):
+#     sum = sum + int(input("What is number " + str(n)))
 
-print(sum)
+# print(sum)
+
+
+
+
