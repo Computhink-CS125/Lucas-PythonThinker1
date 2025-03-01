@@ -68,3 +68,4 @@
 
 
 numbuer1 = input("What is number #1?")
+numbuer2 = input("What is number #2")
