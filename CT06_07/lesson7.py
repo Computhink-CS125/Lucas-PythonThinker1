@@ -52,4 +52,4 @@ word = input("What word would you like to repeat?")
 Repetitivenumber = int(input("How many times would you like it to repeat?"))
 
 for i in range(Repetitivenumber, ):
-    print(i)
+    print(word)
