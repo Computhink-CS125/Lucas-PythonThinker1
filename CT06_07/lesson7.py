@@ -80,4 +80,4 @@
 TimeTableNumbure = input("What number would you like to see the timetable of? ")
 
 for i in range(1 , 13):
-    print(str(TimeTableNumbure) + " x " + str(i))
+    print(str(TimeTableNumbure) + " x " + str(i) + "+")
