@@ -32,4 +32,5 @@
 
 
 # Task 2
-P
+for i in range(2, 21, 2):
+    print()
