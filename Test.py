@@ -9,7 +9,7 @@
 
 start = int(input("What number would you like to start with? ")) # Asking the user what number would the user wants to start with.
 end = int(input("What number would you like to end with? ")) # Asking the user what number the user wants to end with.
-increment = int(input("What number would you like to be an increment of? ")) # Asking the user what number can the increment 
+increment = int(input("What number would you like to be an increment of? ")) # Asking the user what number can the increment be.
 
-for i in range(start, end + 1, increment):
+for i in range(start, end + 1, increment): 
     print(i)
