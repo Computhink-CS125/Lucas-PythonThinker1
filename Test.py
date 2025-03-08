@@ -14,4 +14,4 @@
 # for i in range(start, end, increment): # counting from the start to end with the increment of the user's selected number.
 #     print(i) # The output of what it is supposed to print 
 age = input("What is your age")
-print(age)
+age + 2
