@@ -8,3 +8,4 @@
 
 
 start = input("What number would you like to start with?")
+end = input()
