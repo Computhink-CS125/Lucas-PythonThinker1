@@ -50,3 +50,9 @@
 x = '1'
 b = '1'
 c = x + b
+
+
+
+name = "DENNIS"
+for letter in range(len(name)):
+	print(letter)
