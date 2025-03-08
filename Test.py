@@ -4,4 +4,4 @@
 
 name = input("What is your name? ") # Asking the user his/her name
 
-print("Nice to meet you, " + name + "!") # The output of what 
+print("Nice to meet you, " + name + "!") # The output of what it is supposed to print
