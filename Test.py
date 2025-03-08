@@ -7,7 +7,7 @@
 # print("Nice to meet you, " + name + "!") # The output of what it is supposed to print
 
 
-start = int(input("What number would you like to start with? "))
+start = int(input("What number would you like to start with? ")) # 
 end = int(input("What number would you like to end with? "))
 increment = int(input("What number would you like to be an increment of? "))
 
