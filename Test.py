@@ -27,3 +27,7 @@
 # print(batman + robin)
 
 
+age = 11
+name = "John"
+
+print(age + name)
