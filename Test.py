@@ -7,3 +7,4 @@
 # print("Nice to meet you, " + name + "!") # The output of what it is supposed to print
 
 
+start = input("What number would you like to start with?")
