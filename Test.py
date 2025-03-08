@@ -12,4 +12,4 @@ end = int(input("What number would you like to end with? ")) # Asking the user w
 increment = int(input("What number would you like to be an increment of? ")) # Asking the user what number can the increment be.
 
 for i in range(start, end + 1, increment): # counting from the start to end with the increment of the user's selected number.
-    print(i)
+    print(i) # The output of what it is 
