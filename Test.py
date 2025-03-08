@@ -11,5 +11,5 @@ start = int(input("What number would you like to start with? ")) # Asking the us
 end = int(input("What number would you like to end with? ")) # Asking the user what number the user wants to end with.
 increment = int(input("What number would you like to be an increment of? ")) # Asking the user what number can the increment be.
 
-for i in range(start, end + 1, increment): # counting from the start to end with the increment of the user's selected number.
+for i in range(start, end, increment): # counting from the start to end with the increment of the user's selected number.
     print(i) # The output of what it is supposed to print 
