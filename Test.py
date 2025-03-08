@@ -4,4 +4,4 @@
 
 name = input("What is your name? ")
 
-print()
+print("Your name is" + name)
