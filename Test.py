@@ -9,4 +9,4 @@
 
 start = input("What number would you like to start with? ")
 end = input("What number would you like to end with? ")
-increment = input("How ")
+increment = input("What ")
