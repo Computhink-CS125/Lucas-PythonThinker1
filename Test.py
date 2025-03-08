@@ -66,6 +66,6 @@
 # name = "John"
 
 # print(age + name)
-name = "DENNIS"
-for letter in name:
-	print(letter)
+x = '1'
+b = '1'
+c = x + b
