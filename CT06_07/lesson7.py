@@ -166,4 +166,4 @@ for i in range(1, numstudents):
 
     average = sum / 5
 
-print(int(("The average score for the " + numstudents + "is " +  str(average))))
+print(("The average score for the " + numstudents + "is " +  str(average)))
