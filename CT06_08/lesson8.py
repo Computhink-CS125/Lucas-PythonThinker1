@@ -29,4 +29,4 @@
 
 num1 = random.randit(1, 50)
 num2 = random.randit(1, 50)
-print(num1 + num2)
+total(num1 + num2)
