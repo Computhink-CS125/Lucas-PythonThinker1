@@ -161,7 +161,7 @@ sum  = 0
 
 numstudents = int(input("How many students do you have?"))
 
-for i in range(1, numstudents + 1):
+for i in range(1, numstudents + 12):
     sum = sum + int(input("What is the score of student #" + str(i) + "?" ))
 
     average = sum / numstudents
