@@ -27,4 +27,5 @@
 # print(var1 == var2)
 
 
-num1 = random.randit
+num1 = random.randit(1, 50)
+num2 = random.randit()
