@@ -11,5 +11,3 @@ import random
 
 num = random.randint()
 
-for i in random(1, 6):
-    print(i)
