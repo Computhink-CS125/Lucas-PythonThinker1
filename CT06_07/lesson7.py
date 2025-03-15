@@ -80,3 +80,64 @@
 # TimeTableNumbure = int(input("What number would you like to see the timetable of? "))
 # for i in range(1 , 13):
 #     print(str(TimeTableNumbure) + " x " + str(i) + "=" + str( i * TimeTableNumbure))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+num = int(input("Give me a number to make a number pyramid: "))
+
+for i in range(1, num +1):
+    print(str(i) * i)
