@@ -144,7 +144,7 @@
 
 sum  = 0
 
-for i in range(5):
+for i in range(1, 6):
     sum = sum + int(input("What is the total score for the 5 students?"))
 
     average = sum / 5
