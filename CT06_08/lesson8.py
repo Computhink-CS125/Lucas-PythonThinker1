@@ -15,4 +15,5 @@
 
 
 
-x = 5 == va
+x = True
+print(x)
