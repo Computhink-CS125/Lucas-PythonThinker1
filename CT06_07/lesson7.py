@@ -143,9 +143,9 @@
 #     print(str(i) * i)
 
 sum  = 0
-
+num
 for i in range(1, 6):
-    sum = sum + int(input("What is the score of student #" + sum + "?" ))
+    sum = sum + int(input("What is the score of student #" + num + "?" ))
 
     average = sum / 5
 
