@@ -28,4 +28,4 @@
 
 
 num1 = random.randit(1, 50)
-num2 = random.randit()
+num2 = random.randit(1, 50)
