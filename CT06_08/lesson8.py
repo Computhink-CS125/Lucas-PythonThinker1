@@ -26,7 +26,7 @@
 # var2 = False
 # print(var1 == var2)
 
-
+import random
 num1 = random.randit(1, 50)
 num2 = random.randit(1, 50)
 total = int(input(num1 + num2))
