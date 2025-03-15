@@ -164,6 +164,6 @@ numstudents = int(input("How many students do you have?"))
 for i in range(1, numstudents):
     sum = sum + int(input("What is the score of student #" + str(i) + "?" ))
 
-    average = sum / 5
+    average = sum / numstudents
 
 print("The average score for the " + str(numstudents) + " students is " +  str(average))
