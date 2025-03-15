@@ -143,3 +143,10 @@
 #     print(str(i) * i)
 
 sum  = 0
+
+for i in range(1):
+    sum = sum + int(input("What is the total score for the 5 students?"))
+
+    average = sum / 5
+
+print("The average score for the five students is" +  average)
