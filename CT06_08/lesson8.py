@@ -29,5 +29,5 @@
 import random
 num1 = random.randint(1, 50)
 num2 = random.randint(1, 50)
-answer = input("what is the sum of " + str(num1) + "+" + str(num2) + " ?")
+answer = int(input("what is the sum of " + str(num1) + "+" + str(num2) + " ?"))
 print(answer == num1 + num2)
