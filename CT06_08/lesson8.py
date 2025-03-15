@@ -10,4 +10,4 @@
 import random
 
 for i in random(1, 6):
-    print 
+    print(i)
