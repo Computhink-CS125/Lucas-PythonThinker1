@@ -9,4 +9,5 @@
 
 import random
 
-prin
+for i in random(1, 6):
+    print 
