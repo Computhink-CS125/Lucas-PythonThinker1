@@ -13,3 +13,7 @@ num3_IsEven = num2 % 2 == 0
 all_even_odd = num1_IsEven == num2_IsEven
 
 print(all_even_odd)
+
+
+
+
