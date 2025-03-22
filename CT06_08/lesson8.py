@@ -42,4 +42,5 @@
 # print(guess == number)
 
 
-print("Guess: " + str(guess))
+import random
+
