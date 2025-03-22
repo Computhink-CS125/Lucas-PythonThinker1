@@ -45,5 +45,6 @@ numApples = int(input("How many apples would you like to buy?"))
 numOranges = int(input("How many oranges would you like to buy?"))
 
 if numApples > 5:
-    applecost = num_apples * px_apple * 0.9
-
+    applecost = numApples * px_apple * 0.9
+else:
+    total = applecost = numApples * px_apple
