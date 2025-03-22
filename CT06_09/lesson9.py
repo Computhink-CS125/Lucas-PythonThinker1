@@ -37,3 +37,4 @@
 
 
 
+numApples = int(input(""))
