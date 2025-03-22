@@ -49,4 +49,6 @@ NoOfQuestions = int(input("How many questions do you want ME to give you?"))
 for i in range(NoOfQuestions):
     num1 = random.randint
     num2 = random.randint
-    print("What is" + num1)
+    userAns = int(input("What is" + str(num1) + " x " + str(num2) + " ? "))
+
+    print()
