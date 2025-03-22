@@ -17,4 +17,6 @@ print(all_even_odd)
 
 
 
-question = int(input("How many days have you borrowed this book?")) if 
+question = int(input("How many days have you borrowed this book?"))
+
+if question > 25
