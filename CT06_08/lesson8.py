@@ -51,4 +51,4 @@ for i in range(NoOfQuestions):
     num2 = random.randint
     userAns = int(input("What is" + str(num1) + " x " + str(num2) + " ? "))
 
-    print()
+    print(userAns)
