@@ -39,4 +39,4 @@
 
 numApples = int(input("How many apples would you like to buy?"))
 
-numOranges
+numOranges = int(input())
