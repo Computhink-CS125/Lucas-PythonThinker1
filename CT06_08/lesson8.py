@@ -44,3 +44,4 @@
 
 import random
 
+inp
