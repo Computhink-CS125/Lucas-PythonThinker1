@@ -33,4 +33,4 @@
 # print(answer == num1 + num2)
 
 import random
-guess = int(input("" "))
+guess = int(input("What number would you like to guess? "))
