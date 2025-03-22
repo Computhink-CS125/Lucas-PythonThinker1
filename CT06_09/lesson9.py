@@ -35,8 +35,15 @@
 # if guess == num1:
 #     print
 
-
+px_apple = 0.60
+px_orange = 0.90
+costApple = 0
+costOrange = 0
+total = 0
 
 numApples = int(input("How many apples would you like to buy?"))
+numOranges = int(input("How many oranges would you like to buy?"))
 
-numOranges = int(input(""))
+if numApples > 5:
+    applecost = num_apples * px
+
