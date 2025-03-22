@@ -31,3 +31,6 @@ import random
 
 num1 = random.randint(1,10)
 guess = random.randint(1,10)
+
+if guess == num1:
+    print
