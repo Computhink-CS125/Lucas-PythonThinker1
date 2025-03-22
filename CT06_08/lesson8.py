@@ -47,7 +47,7 @@ import random
 NoOfQuestions = int(input("How many questions do you want ME to give you?"))
 
 for i in range(NoOfQuestions):
-    num1 = random.randint(1,100)
+    num1 = random.randint(-1,100)
     num2 = random.randint(-1,100)
     userAns = int(input("What is" + str(num1) + " x " + str(num2) + " ? "))
     Answer = num1 + num2
