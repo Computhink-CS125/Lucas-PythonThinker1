@@ -30,7 +30,7 @@
 import random
 
 num1 = random.randint(1,10)
-UserGuess = int(input("What is your guess?"))
+UserGuess = int(input("What is your guess number?"))
 
 if guess == num1:
     print
