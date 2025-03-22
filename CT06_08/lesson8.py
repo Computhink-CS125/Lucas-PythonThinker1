@@ -42,4 +42,4 @@
 # print(guess == number)
 
 
-num
+print("Guess: " + str(guess))
