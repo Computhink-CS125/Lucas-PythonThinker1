@@ -44,4 +44,4 @@
 
 import random
 
-NoOfQuestions = input("How many questions do you want me")
+NoOfQuestions = input("How many questions do you want ME to give you?")
