@@ -10,4 +10,6 @@ num1_IsEven = num1 % 2 == 0
 num2_IsEven = num2 % 2 == 0
 num3_IsEven = num2 % 2 == 0
 
-all_even_odd = num1_IsEven == num2
+all_even_odd = num1_IsEven == num2_IsEven
+
+print
