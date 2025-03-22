@@ -39,3 +39,4 @@ number = random.randint(1,10)
 print("Guess: " + str(guess))
 print("Num: " + str(number))
 
+print("Is ")
