@@ -17,4 +17,4 @@ print(all_even_odd)
 
 
 
-# question = 
+# question = int(input)
