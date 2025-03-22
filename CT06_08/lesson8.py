@@ -62,4 +62,6 @@ import random
 num1 = random.randint(1,6)
 num2 = random.randint(1,6)
 num3 = random.randint(1,6)
-ccc
+print("The first number : " + str(num1))
+print("The first number : " + str(num2))
+print("The first number : " + str(num2))
