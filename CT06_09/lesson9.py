@@ -9,3 +9,5 @@ print("The third number : " + str(num3))
 num1_IsEven = num1 % 2 == 0
 num2_IsEven = num2 % 2 == 0
 num3_IsEven = num2 % 2 == 0
+
+all
