@@ -49,4 +49,4 @@ if numApples > 5:
 else:
     total = applecost = numApples * px_apple
 if numOranges > 5:
-    applecost = numApples * px_apple
+    orangecost = numOranges * px_apple
