@@ -29,4 +29,4 @@
 
 import random
 
-num1 = random.randit
+num1 = random.randint()
