@@ -26,4 +26,4 @@
 num = int(input("What Number would you input"))
 
 if num % 3 == 0 and num % 7 == 0:
-    print("")
+    print("The number can be ")
