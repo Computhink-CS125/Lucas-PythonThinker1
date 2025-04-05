@@ -65,4 +65,4 @@
 username = "Johnson1two3"
 pw = "Pw123"
 
-user_input = input
+user_input = input("")
