@@ -71,6 +71,6 @@ pw_input = input("What is the pw?")
 if username_input == username and pw_input == pw:
     print("Access Granted! Welcome back!")
 elif username_input == username or pw_input == pw:
-    print()
+    print("")
 else:
     print("Access denied BUDDY BOY, 🫵😂?")
