@@ -45,6 +45,6 @@
 #     print("OKE u get free dicount!")
 
 
-
+password = Pith
 
 password = int(input("What is da SECERETOOLOO PASSYWORD :))"))
