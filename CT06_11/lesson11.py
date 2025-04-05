@@ -56,4 +56,4 @@
 
 burg = input("Do you want a burger🍔 :)")
 fries = input("Want some fries?🍟")
-drink= input("")
+drink= input("Saving your thirst for some drinks?🍷")
