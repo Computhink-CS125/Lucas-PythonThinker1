@@ -27,3 +27,9 @@
 
 # if num % 3 == 0 and num % 7 == 0:
 #     print("The number can be divisable by 3 and 7")
+
+
+
+
+
+rider
