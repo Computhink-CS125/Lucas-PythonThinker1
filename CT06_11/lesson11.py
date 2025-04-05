@@ -59,4 +59,4 @@ fries = input("Want some fries?🍟")
 drink= input("Saving your thirst for some drinks?🍷")
 
 if burg == "Yes" and fries == "Yes" and drink == "No":
-    print("")
+    print("So... you're saving your drink for something?")
