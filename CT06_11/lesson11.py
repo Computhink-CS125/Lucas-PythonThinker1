@@ -39,5 +39,4 @@
 # print(result)
 
 
-user1 = 11
-
+user1 = 11 # ask for age so you need input
