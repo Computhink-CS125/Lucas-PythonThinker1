@@ -45,6 +45,7 @@
 #     print("OKE u get free dicount!")
 
 
-password = Pithon1twothree
 
-password = int(input("What is da SECERETOOLOO PASSYWORD :))"))
+
+password = input("What is da SECERETOOLOO PASSYWORD :))")
+
