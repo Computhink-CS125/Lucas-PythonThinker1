@@ -54,4 +54,4 @@
 # else:
 #     print("Ight! Welcome back!")
 
-burg = 
+burg = input("Do you want a burger :)")
