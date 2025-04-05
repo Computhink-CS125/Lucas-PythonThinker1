@@ -25,3 +25,4 @@
 
 num = int(input("What Number would you input"))
 
+num %= 3
