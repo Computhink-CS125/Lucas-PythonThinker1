@@ -35,4 +35,4 @@
 rider1 = 25
 rider2 = 6
 
-result = rider1 
+result = rider1 >= 18 or rider2 >= 18
