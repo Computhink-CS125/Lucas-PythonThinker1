@@ -33,5 +33,4 @@
 
 
 rider1 = 25
-
-rider2
+rider2 = 6
