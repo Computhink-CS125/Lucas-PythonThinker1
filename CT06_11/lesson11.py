@@ -35,3 +35,4 @@
 rider1 = 25
 rider2 = 6
 
+result = rider1 
