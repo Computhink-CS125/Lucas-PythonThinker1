@@ -43,3 +43,7 @@
     
 # if user1 <= 18:
 #     print("OKE u get free dicount!")
+
+
+
+
