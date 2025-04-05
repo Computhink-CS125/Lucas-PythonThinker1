@@ -39,4 +39,4 @@
 # print(result)
 
 
-user1 = 11 # ask for age so you need input
+user1 = int()
