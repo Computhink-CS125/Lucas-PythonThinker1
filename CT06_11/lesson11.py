@@ -13,3 +13,7 @@
 # elif PriceOItem <= 502:
 #     print("Ok bro, 502?")
 # else: print("OK THATS ENOUGH, I KNOW YOU WANT TO SPEEDRUN POVERTY BUT THATS ENOUGH OKAY! CHILL!!!")
+
+
+
+
