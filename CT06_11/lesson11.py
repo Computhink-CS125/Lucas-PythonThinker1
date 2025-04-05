@@ -40,3 +40,4 @@
 
 
 user1 = int(input("SIRINGTONS HOW OLD R UUUU =}"))
+    if 
