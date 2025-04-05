@@ -39,4 +39,4 @@
 # print(result)
 
 
-user1 = int()
+user1 = int(input("SIRINGTONS HOW OLD R UUUU =}"))
