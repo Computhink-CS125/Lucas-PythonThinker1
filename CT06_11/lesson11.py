@@ -49,5 +49,5 @@
 
 password = input("What is da SECERETOOLOO PASSYWORD :))")
 
-if not password  == pithon1twothree:
+if not password == pithon1twothree:
     print("HAHAH U HACKUR U NEBER GET FWEE PASSYWORD EHEHEHA")
