@@ -20,4 +20,5 @@
 rider1 = 125
 rider2 = 150
 
-result = input("is ")
+result = rider1 > 120
+ and 
