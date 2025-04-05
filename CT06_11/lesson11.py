@@ -10,5 +10,6 @@ elif PriceOItem <= 500:
     print("Alright I think thats enough...")
 elif PriceOItem <= 501:
     print("Seriously? 501?")
-else:
-    print("OK THATS ENOUGH, I KNOW YOU WANT TO SPEEDRUN POVERTY BUT THATS ENOUGH OKAY! CHILL!!!")
+elif PriceOItem <= 502:
+    print("Ok bro, 502?")
+else: print("OK THATS ENOUGH, I KNOW YOU WANT TO SPEEDRUN POVERTY BUT THATS ENOUGH OKAY! CHILL!!!")
