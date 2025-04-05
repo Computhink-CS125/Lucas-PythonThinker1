@@ -65,8 +65,8 @@
 username = "Johnson1two3"
 pw = "Pw123"
 
-usernames = input("What is your username?")
-user_input = input("What is the pw?")
+username_input = input("What is your username?")
+pw_input = input("What is the pw?")
 
 if user_input == username and pw == "Pw123":
     print("")
