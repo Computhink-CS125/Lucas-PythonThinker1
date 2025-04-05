@@ -32,5 +32,6 @@
 
 
 
-rider1
-ider2
+rider1 = 25
+
+rider2
