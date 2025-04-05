@@ -23,7 +23,7 @@
 # result = rider1 > 120 and rider2 > 120
 # print (result)
 
-num = int(input("What Number would you input"))
+# num = int(input("What Number would you input"))
 
-if num % 3 == 0 and num % 7 == 0:
-    print("The number can be ")
+# if num % 3 == 0 and num % 7 == 0:
+#     print("The number can be divisable by 3 and 7")
