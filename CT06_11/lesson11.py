@@ -55,3 +55,4 @@
 #     print("Ight! Welcome back!")
 
 burg = input("Do you want a burger :)")
+fries = input("Want some fries?")
