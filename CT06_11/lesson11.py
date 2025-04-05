@@ -23,4 +23,4 @@
 # result = rider1 > 120 and rider2 > 120
 # print (result)
 
-num = int(input(""))
+num = int(input("Is the number bo"))
