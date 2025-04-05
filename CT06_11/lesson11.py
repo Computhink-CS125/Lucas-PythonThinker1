@@ -41,4 +41,5 @@
 
 user1 = int(input("SIRINGTONS HOW OLD R UUUU =}"))
     
-result
+if user1 <= 18:
+    print("")
