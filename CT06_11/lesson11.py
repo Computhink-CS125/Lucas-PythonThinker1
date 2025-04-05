@@ -42,4 +42,4 @@
 user1 = int(input("SIRINGTONS HOW OLD R UUUU =}"))
     
 if user1 <= 18:
-    print("")
+    print("OKE U CUTEY BOY BOY ")
