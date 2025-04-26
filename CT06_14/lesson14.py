@@ -5,7 +5,7 @@ Order = [
 "Extra cheese 😍😍😍"]
 
 User = []
-print()
+print("The Availiable toppings are")
 for i in Order:
     print("The current Toppings are: ")
     print(str(i+1))
