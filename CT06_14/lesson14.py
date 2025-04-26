@@ -29,7 +29,7 @@ import turtle
 
 t = turtle.Turtle 
 
-t.shape()
+t.shape("turtle")
 
 window = turtle.Screen()
 
