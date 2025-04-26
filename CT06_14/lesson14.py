@@ -1,5 +1,5 @@
 Order = [
 "Mushroom 🤮",
-"pepperoni",
+"pepperoni😁",
 ""
 ""]
