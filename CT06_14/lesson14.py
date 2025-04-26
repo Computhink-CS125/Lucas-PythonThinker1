@@ -5,7 +5,7 @@ Order = [
 ]
 
 for i in Order:
-    print
+    print("The current ")
 
 
 
