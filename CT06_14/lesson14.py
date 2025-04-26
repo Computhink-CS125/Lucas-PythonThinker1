@@ -9,7 +9,7 @@ print("The Availiable toppings are:")
 
 counter = 1
 for i in range(len(Order)):
-    print(str(counter) + ". " + i)
+    print(str(i) + ". " + i)
     counter += 1
 
 
