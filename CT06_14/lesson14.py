@@ -35,7 +35,5 @@ t = turtle.Turtle
 
 t.shape("turtle")
 
-
-
 window.mainloop()
 
