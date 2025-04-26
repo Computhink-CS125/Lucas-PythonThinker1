@@ -13,7 +13,9 @@ for i in range(len(Order)):
 while True:
     user = input("Please choose your pizza topping by number:")
     if user == "end" :
-        
+        break
+    else:
+        user
 
 
 
