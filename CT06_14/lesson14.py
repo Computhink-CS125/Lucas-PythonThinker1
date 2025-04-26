@@ -9,9 +9,8 @@ print("The Availiable toppings are:")
 
 counter = 1
 for i in Order:
-    print("The current Toppings are: ")
     print(str(counter) + ". " + i)
-    
+    counter += 1
 
 
 
