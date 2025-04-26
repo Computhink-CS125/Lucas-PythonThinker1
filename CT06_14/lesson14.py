@@ -1,2 +1,2 @@
 print("The available toppings are:")
-print("")
+print("1. Mushroom")
