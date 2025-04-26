@@ -5,7 +5,7 @@ Order = [
 ]
 
 for i in Order:
-    print("The current ")
+    print("The current Toppings are: ")
 
 
 
