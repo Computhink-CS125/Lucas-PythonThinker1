@@ -7,10 +7,8 @@ Order = [
 User = []
 print("The Availiable toppings are:")
 
-counter = 1
 for i in range(len(Order)):
-    print(str(i) + ". " + i)
-    counter += 1
+    print(str(i+1) + ". " + i)
 
 
 
