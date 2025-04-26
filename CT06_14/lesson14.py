@@ -15,7 +15,7 @@ while True:
     if user_input == "end" :
         break
     else:
-        user.append()
+        User.append(Order[])
 
 
 
