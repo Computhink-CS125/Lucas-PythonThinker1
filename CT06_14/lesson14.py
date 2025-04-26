@@ -29,7 +29,9 @@ import turtle
 
 window = turtle.Screen()
 
+t = turtle.Turtle 
 
+t.shape("turtle")
 
 window.setup(width=600, height=400)
 
