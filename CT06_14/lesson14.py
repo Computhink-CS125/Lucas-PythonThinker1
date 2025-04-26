@@ -6,6 +6,7 @@ Order = [
 
 for i in Order:
     print("The current Toppings are: ")
+    print(str)
 
 
 
