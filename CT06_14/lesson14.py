@@ -15,7 +15,7 @@ while True:
     if user == "end" :
         break
     else:
-        user
+        user.append
 
 
 
