@@ -18,7 +18,7 @@ while True:
         User.append(Order[int(user_input) - 1])
         
 for order in user_input:
-    print()
+    print(order)
 
 
 
