@@ -4,6 +4,9 @@ Order = [
 "Cheese😍"
 ]
 
+for i in Order:
+    print
+
 
 
 
