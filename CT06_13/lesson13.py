@@ -167,7 +167,7 @@
 #  #chimpanzini banananini 
 #  #chimpanzini banananini 
 
-groceries.append("Ice")
+
 
 groceries = [
     "water"
@@ -183,7 +183,7 @@ groceries = [
 ]
 
 
-
+groceries.append("Ice")
 
 
 
