@@ -325,7 +325,7 @@ planets.append = ("neptune")
 # 3. Elon Musk has conquered Mars. 
 #    Rename Mars in the list to be "muskworld"
 
-
+planets.insert
 
 # 4. Remove uranus from this list.
 
