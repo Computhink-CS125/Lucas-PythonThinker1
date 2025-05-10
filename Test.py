@@ -258,11 +258,11 @@
 # Note that the numbers do not need to be printed in one line.
 # Write your code here
 
-num = 10
+# num = 10
 
-while num <= 200 :
-    print(num)
-    num += 10
+# while num <= 200 :
+#     print(num)
+#     num += 10
 
 
 
