@@ -294,4 +294,5 @@ parswerd = "superpass123"
 user_input = input("What is the password?")
 if user_input == parswerd:
     print("Access granted")
-    
+else:
+    print("Access denied!")
