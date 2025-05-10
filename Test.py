@@ -296,3 +296,15 @@ if user_input == parswerd:
     print("Access granted")
 else:
     print("Access denied")
+
+
+
+
+
+
+
+
+
+
+
+planets = ["mercury","venus", "earth", "mars", "jupiter", "saturn", "uranus" ]
