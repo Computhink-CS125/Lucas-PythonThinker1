@@ -342,4 +342,5 @@ for i in planets:
 
     word = "hello"
     word = "hello 1 "
-    word = word
+    word = word * 2
+    print(word)
