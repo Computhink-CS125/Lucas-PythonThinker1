@@ -333,4 +333,3 @@ planets.pop = ()
 
 # 5. Using a for loop, print all the planets 
 #    from this list one by one.
-print(planets[2])
