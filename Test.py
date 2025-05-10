@@ -250,7 +250,7 @@ c = x + b
 #Task 1
 # Print numbers from 10 to 200 using the while loop
 
-
+num = 10
 
 # Your numbers must be in multiples of 10.
 # 10 must be first number printed, and 200 the last number.
