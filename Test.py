@@ -341,4 +341,5 @@ for i in planets:
 
 
     word = "hello"
-    word = hello
+    word = "hello 1 "
+    word = word
