@@ -338,3 +338,7 @@ planets.pop(6)
 for i in planets:
     print(i)
     
+
+
+    word = "hello"
+    word = hello
