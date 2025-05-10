@@ -329,7 +329,7 @@ print(planets)
 planets[3] = "muskworld"
 
 # 4. Remove uranus from this list.
-planets.pop()
+planets.pop(6)
 
 
 # 5. Using a for loop, print all the planets 
