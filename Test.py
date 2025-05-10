@@ -326,7 +326,7 @@ print(planets)
 # 3. Elon Musk has conquered Mars. 
 #    Rename Mars in the list to be "muskworld"
 
-planets[]
+planets[3]
 
 # 4. Remove uranus from this list.
 
