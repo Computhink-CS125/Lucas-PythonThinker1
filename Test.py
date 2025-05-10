@@ -326,7 +326,9 @@ planets.append = ()
 #    Rename Mars in the list to be "muskworld"
 
 
+
 # 4. Remove uranus from this list.
+
 
 
 # 5. Using a for loop, print all the planets 
