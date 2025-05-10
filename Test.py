@@ -252,6 +252,9 @@ c = x + b
 
 num = 10
 
+while num <= 200 :
+    print()
+
 # Your numbers must be in multiples of 10.
 # 10 must be first number printed, and 200 the last number.
 
