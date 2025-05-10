@@ -329,8 +329,8 @@ planets = ["mercury","venus", "earth", "mars", "jupiter", "saturn", "uranus" ]
 planets[3] = "muskworld"
 
 # 4. Remove uranus from this list.
-# planets.pop[3]
-planets.pop("uranus")
+planets.pop[3]
+# planets.pop("uranus")
 
 # 5. Using a for loop, print all the planets 
 #    from this list one by one.
