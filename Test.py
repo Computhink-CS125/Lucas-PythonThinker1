@@ -307,4 +307,6 @@ else:
 
 
 
-planets = ["mercury","venus", "earth", "mars", "jupiter", "saturn", "uranus" ]
+planets = ["mercury","venus", "earth", "mars", "jupiter", "saturn", "uranus" ] 
+
+print()
