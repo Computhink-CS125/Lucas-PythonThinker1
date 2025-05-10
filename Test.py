@@ -289,13 +289,13 @@ while num <= 200 :
 # Write your code here
 
 
-parswerd = "superpass123"
+# parswerd = "superpass123"
 
-user_input = input("What is the password?")
-if user_input == parswerd:
-    print("Access granted")
-else:
-    print("Access denied")
+# user_input = input("What is the password?")
+# if user_input == parswerd:
+#     print("Access granted")
+# else:
+#     print("Access denied")
 
 
 
