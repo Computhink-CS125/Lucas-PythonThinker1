@@ -9,6 +9,6 @@ def drawShape(length, num_sides):
         # turning t.left(360 / num_sides)
 
 length_var =int(input("what is the length "))
-drawShape
+drawShape(length_var, 4)
 
 window.mainloop()
