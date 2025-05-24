@@ -1,5 +1,5 @@
 import turtle
 window = turtle.Screen()
-t = turtle.Turtle
+t = turtle.Turtle()
 
-widnow.mainloop()
+window.mainloop()
