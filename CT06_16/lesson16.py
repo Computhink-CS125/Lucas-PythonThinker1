@@ -11,4 +11,4 @@ def drawShape(length, num_sides):
     for i in range(num_sides):
         t.forward(length)
 
-length_var
+length_var =int(input("what"))
